@@ -1,0 +1,2 @@
+// Ballistic Shield Spawn Entries
+addSpawnTableSingleEntry => { "tableName": "BlueArmorReplaces", "name": "HDRiotShieldItem", "weight": "0.25", "persists": "true" }
