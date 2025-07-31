@@ -1,0 +1,6 @@
+[enu default]
+
+// Riot Shield
+MERCH_CAT_RIOTSHIELD              = "Bangers & Mash";
+MERCH_TAG_RIOTSHIELD              = "Riot Shield";
+MERCH_FLAVOR_RIOTSHIELD           = "Lookin' to quell some insurrection?";

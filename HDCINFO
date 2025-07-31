@@ -1,2 +1,5 @@
 // Ballistic Shield Spawn Entries
 addSpawnTableSingleEntry => { "tableName": "BlueArmorReplaces", "name": "HDRiotShieldItem", "weight": "0.25", "persists": "true" }
+
+// Merchant Store Entries
+newMerchantStoreItem => { "enabled": "#hdm_enable_riotshield", "type": "item", "category": "$MERCH_CAT_RIOTSHIELD", "item": "HDRiotShieldItem", "icon": "RSH0Z0", "displayName": "$MERCH_TAG_RIOTSHIELD", "basePrice": "225", "flavorText": "$MERCH_FLAVOR_RIOTSHIELD" }

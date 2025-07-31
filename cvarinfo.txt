@@ -1,1 +1,3 @@
 server bool PB_BallisticShield_Spawns = true;
+
+server bool hdm_enable_riotshield = true;
